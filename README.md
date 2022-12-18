@@ -9,7 +9,7 @@
 - **"Add a README file"** seçeneğini seçin.
 - "Choose a license" seçeneğini seçip **"MIT License"** seçeneğini seçin. Lisanslar ile alakalı detaylı bilgi için [Choose a License](https://choosealicense.com/) sitesini ziyaret edebilirsiniz.
 
-![create repository]("E:\Patika Dev\sites\project2\kodluyoruzilkrepo\img\create_repo.png")
+![create repository](E:\Patika Dev\sites\project2\kodluyoruzilkrepo\img\create_repo.png)
 
 Evet ilk repomuzu oluşturduk. Bundan sonraki adımda oluşturduğumuz repoyu bilgisayarımıza klonlamak olacak.
 
@@ -17,7 +17,7 @@ Evet ilk repomuzu oluşturduk. Bundan sonraki adımda oluşturduğumuz repoyu bi
 - Repoyu bilgisayarımıza aldıktan sonra içine ```README.md``` adında bir Markdown dosya oluşturun.
 - Markdown içeriği aşağıdaki gibi olacak şekilde düzenleyin. Markdown için önceki konumuza bakabilirsiniz.
 
-![ornek]("E:\Patika Dev\sites\project2\kodluyoruzilkrepo\img\ornek.png")
+![ornek](E:\Patika Dev\sites\project2\kodluyoruzilkrepo\img\ornek.png)
 
 **Detaylı bakmak için Örnek Readme Dosyasını inceleyebilirsiniz.**
 - Markdown dosyanızın içine projemizin bir **resmini** koyun.
